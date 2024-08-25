@@ -1,0 +1,29 @@
+File handling in Python is a powerful
+and versatile tool that can be used to perform a wide range of operations. 
+However, it is important to carefully consider the advantages and disadvantages 
+of file handling when writing Python programs, to ensure that the code is 
+secure, reliable, and performs well.
+Adding more text to the file.
+Python is versatile!
+Adding more text to the file.
+Python is versatile!
+Adding more text to the file.
+Python is versatile!
+Adding more text to the file.
+Python is versatile!
+Adding more text to the file.
+Python is versatile!
+Adding more text to the file.
+Python is versatile!
+Adding more text to the file.
+Python is versatile!
+Adding more text to the file.
+Python is versatile!
+Appending more text using append mode.
+Python is great for file handling!
+Appending more text using append mode.
+Python is great for file handling!
+Appending more text using append mode.
+Python is great for file handling!
+File handling in Python allows you to perform a wide range of operations, such as creating, reading, writing, appending, renaming, and deleting files..
+File handling in Python allows you to perform a wide range of operations, such as creating, reading, writing, appending, renaming, and deleting files..
